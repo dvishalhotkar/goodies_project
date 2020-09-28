@@ -1,0 +1,12 @@
+Python should be installed in the system.
+
+Go to Command prompt 
+cmd
+
+Go to the path where goodies_distribution.py is available
+cd ../goodies_project/goodies_distribution.py
+
+Run the below command:
+python goodies_distribution.py
+
+Check the output folder in that output.txt file where we can seee the expected result.
